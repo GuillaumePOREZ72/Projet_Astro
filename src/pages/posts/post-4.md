@@ -2,7 +2,7 @@
 
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Mon 4ème billet de blog'
-author: Apprenti Astro
+author: 'Guillaume Porez'
 description: "Ce billet apparaîtra tout seul !"
 image:
   url: 'https://docs.astro.build/assets/full-logo-light.png'

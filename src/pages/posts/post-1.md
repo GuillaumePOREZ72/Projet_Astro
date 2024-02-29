@@ -9,12 +9,12 @@ image:
     alt: 'Le logo Astro complet.'
 tags: ["astro", "blogging", "apprentissage en public"]
 ---
-# My First Blog Post
+# Mon premier Blog
 
 
 Bienvenue sur mon _nouveau blog_ sur l'apprentissage d'Astro ! Ici, je partagerai mon parcours d'apprentissage alors que je construis un nouveau site web.
 
-## What I've accomplished
+## Ce que j'ai accompli
 
 1. **Installing Astro**: First, I created a new Astro project and set up my online accounts.
 
@@ -22,6 +22,6 @@ Bienvenue sur mon _nouveau blog_ sur l'apprentissage d'Astro ! Ici, je partagera
 
 3. **Making Blog Posts**: This is my first blog post! I now have Astro pages and Markdown posts!
 
-## What's next
+## Et ensuite
 
 I will finish the Astro tutorial, and then keep adding more posts. Watch this space for more to come.

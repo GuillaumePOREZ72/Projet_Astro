@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Mon 2ème billet de blog'
+title: 'Mon second billet de blog'
 pubDate: 2022-07-01
-description: 'Ceci est le premier billet de mon nouveau blog Astro.'
+description: 'Ceci est le second billet de mon nouveau blog Astro.'
 author: 'Guillaume Porez'
 image:
     url: 'https://docs.astro.build/assets/full-logo-light.png'
