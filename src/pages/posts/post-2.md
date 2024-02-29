@@ -1,11 +1,13 @@
 ---
-title: My Second Blog Post
-author: Astro Learner
-description: "After learning some Astro, I couldn't stop!"
+layout: ../../layouts/MarkdownPostLayout.astro
+title: 'Mon 2ème billet de blog'
+pubDate: 2022-07-01
+description: 'Ceci est le premier billet de mon nouveau blog Astro.'
+author: 'Guillaume Porez'
 image:
-    url: "https://docs.astro.build/assets/arc.webp"
-    alt: "Thumbnail of Astro arcs."
-pubDate: 2022-07-08
-tags: ["astro", "blogging", "learning in public", "successes"]
+    url: 'https://docs.astro.build/assets/full-logo-light.png'
+    alt: 'Le logo Astro complet.'
+tags: ["astro", "blogging", "apprentissage en public"]
 ---
+
 After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
